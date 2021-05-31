@@ -1,4 +1,4 @@
-#Simple-
+#Simple-address-book
 
 This project is build with Java version8 and `SpringBoot` framework and built with `Gradle`. The `Gradle` wrapper is provided so no installation is needed.
 
