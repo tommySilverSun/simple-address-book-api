@@ -15,7 +15,7 @@ import java.util.Set;
 import java.util.UUID;
 
 /**
- * Contain all Address book API
+ * Contain all endpoints for Address book API
  *
  *
  */
